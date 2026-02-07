@@ -13,25 +13,9 @@
 
 Me chamo **Adriano Cardoso** e sou um desenvolvedor backend em formação, cursando **Ciência da Computação na UFMA**. Estou buscando minha primeira experiência formal no mercado como desenvolvedor Backend, consolidando conhecimentos adquiridos durante projetos de inovação acadêmica e cursos intensivos.
 
-### 🎯 Competências Principais
-
-![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git&perline=6)
-
----
-
 ## 🛠️ Tech Stack
 
-**Backend & Bancos de Dados**
-
-![My Skills](https://skillicons.dev/icons?i=python,fastapi,spring,react,postgres,sqlalchemy&perline=6)
-
-**DevOps & Infraestrutura**
-
-![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github&perline=4)
-
-**Ferramentas & Metodologias**
-
-![My Skills](https://skillicons.dev/icons?i=postman,bash,vim&perline=3)
+![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,bash,vscode&perline=4)
 
 ---
 
@@ -48,19 +32,7 @@ Liderança técnica no desenvolvimento do backend com foco em:
 
 ---
 
-## 🎯 Competências
 
-### Backend
-![My Skills](https://skillicons.dev/icons?i=python,fastapi,spring,react,nodejs&perline=5)
-
-### Bancos de Dados
-![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite&perline=3)
-
-### DevOps & Infraestrutura
-![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,bash&perline=5)
-
-### Ferramentas & IDEs
-![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,vim,postman&perline=5)
 
 ---
 
