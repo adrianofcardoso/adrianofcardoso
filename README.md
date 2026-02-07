@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Adriano%20Cardoso&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Computer%20Science%20%40%20UFMA&descAlignY=62&descAlign=62)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=adrianofcardoso&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianofcardoso&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
 ---
 
 # Hello World! 🚀
@@ -15,7 +8,27 @@ Me chamo **Adriano Cardoso** e sou um desenvolvedor backend em formação, cursa
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,bash,vscode&perline=4)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" height="48" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" height="48" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="48" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="48" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" height="48" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="48" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" height="48" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" height="48" style="margin:6px"/>
+  <div style="width:100%;height:8px"></div>
+  <span title="API Restful" style="font-weight:600">API Restful</span>
+</div>
+
+## 🧰 IDEs & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" height="36" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=jetbrains" title="JetBrains IDEs" alt="JetBrains" height="36" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="36" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="36" style="margin:6px"/>
+</div>
 
 ---
 
