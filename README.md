@@ -3,7 +3,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=adrianofcardoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=adrianofcardoso&show_icons=true&theme=tokyonight&include_all_commits=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianofcardoso&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
@@ -23,7 +23,7 @@ Me chamo **Adriano Cardoso** e sou um desenvolvedor backend em formação, cursa
 
 **Backend & Bancos de Dados**
 
-![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,sqlalchemy&perline=4)
+![My Skills](https://skillicons.dev/icons?i=python,fastapi,spring,react,postgres,sqlalchemy&perline=6)
 
 **DevOps & Infraestrutura**
 
@@ -51,7 +51,7 @@ Liderança técnica no desenvolvimento do backend com foco em:
 ## 🎯 Competências
 
 ### Backend
-![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs&perline=3)
+![My Skills](https://skillicons.dev/icons?i=python,fastapi,spring,react,nodejs&perline=5)
 
 ### Bancos de Dados
 ![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite&perline=3)
@@ -60,7 +60,7 @@ Liderança técnica no desenvolvimento do backend com foco em:
 ![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,bash&perline=5)
 
 ### Ferramentas & IDEs
-![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,vim,postman&perline=4)
+![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,vim,postman&perline=5)
 
 ---
 
@@ -89,8 +89,7 @@ Estou pronto para contribuir com:
 
 ---
 
-
-## �📬 Vamos Conversar!
+## 📬 Vamos Conversar!
 
 Se você procura um desenvolvedor backend motivado e em desenvolvimento, vamos conversar!
 
