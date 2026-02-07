@@ -26,7 +26,7 @@ I am a backend developer in training, currently studying Computer Science at UFM
 ### Development Environment
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" height="36" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/idea/idea-original.svg" title="JetBrains (IntelliJ)" alt="IntelliJ" height="36" style="margin:6px"/>
+  <img src="https://cdn.simpleicons.org/jetbrains/000000" title="JetBrains (IntelliJ)" alt="IntelliJ" height="36" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="36" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="36" style="margin:6px"/>
 </div>
@@ -74,6 +74,8 @@ If you're looking for a motivated backend developer, let's talk!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seuusuario)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/seuusuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:seu.email@example.com)
 
 ---
