@@ -74,11 +74,10 @@ Technical lead on backend development focusing on:
 
 If you're looking for a motivated backend developer, let's talk!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seuusuario)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/seuusuario)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:seu.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/adrianocardosoo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/adrianofcardoso_)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://twitter.com/adrianosinho)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:adrianofc4@hotmail.com)
 
 ---
 
