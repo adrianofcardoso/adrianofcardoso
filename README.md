@@ -14,12 +14,14 @@ I am a backend developer in training, currently studying Computer Science at UFM
 ### Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" height="48" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="48" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" height="48" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" height="48" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" height="48" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot" height="48" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="48" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="48" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" height="48" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="48" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" height="48" style="margin:6px"/>
   <img src="https://img.icons8.com/fluency/48/api-settings.png" title="REST API" alt="REST API" height="48" style="margin:6px"/>
 </div>
 
@@ -98,8 +100,8 @@ If you're looking for a motivated backend developer, let's talk!
           self.name = "Adriano Cardoso"
           self.role = "Backend Developer"
           self.location = "Brazil 🇧🇷"
-          self.languages = ["Python", "Bash", "SQL"]
-          self.frameworks = ["FastAPI", "Docker", "PostgreSQL"]
+          self.languages = ["Python", "Node.js", "JavaScript", "SQL"]
+          self.frameworks = ["FastAPI", "Spring Boot", "React", "PostgreSQL", "Docker"]
           self.always_learning = True
           
       def hire(self):
