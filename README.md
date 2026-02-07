@@ -18,14 +18,17 @@ Me chamo **Adriano Cardoso** e sou um desenvolvedor backend em formação, cursa
   <img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" height="48" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" height="48" style="margin:6px"/>
   <div style="width:100%;height:8px"></div>
-  <span title="API Restful" style="font-weight:600">API Restful</span>
+  <span style="display:inline-flex;align-items:center;gap:8px;font-weight:600">
+    <img src="https://skillicons.dev/icons?i=swagger" title="API Restful" alt="API Restful" height="28"/>
+    API Restful
+  </span>
 </div>
 
 ## 🧰 IDEs & Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" height="36" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=jetbrains" title="JetBrains IDEs" alt="JetBrains" height="36" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=intellij" title="JetBrains (IntelliJ)" alt="IntelliJ" height="36" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="36" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="36" style="margin:6px"/>
 </div>
@@ -45,10 +48,6 @@ Liderança técnica no desenvolvimento do backend com foco em:
 
 ---
 
-
-
----
-
 ## 📊 Experiência Profissional
 
 **W7M E-Sports** - Análise em Ambiente Dinâmico
@@ -61,6 +60,13 @@ Liderança técnica no desenvolvimento do backend com foco em:
 
 - **Graduação:** Ciência da Computação - **UFMA** (Em andamento)
 - **Especialização:** Projetos de Inovação Acadêmica e Cursos Intensivos Backend
+
+---
+
+## 🗣️ Idiomas
+
+- **Inglês:** Intermediário (B1)
+- **Espanhol:** Básico
 
 ---
 
