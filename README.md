@@ -26,7 +26,7 @@ I am a backend developer in training, currently studying Computer Science at UFM
 ### Development Environment
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" height="36" style="margin:6px"/>
-  <img src="https://cdn.simpleicons.org/jetbrains/000000" title="JetBrains (IntelliJ)" alt="IntelliJ" height="36" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=idea" title="JetBrains (IntelliJ)" alt="IntelliJ" height="36" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="36" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="36" style="margin:6px"/>
 </div>
@@ -80,20 +80,40 @@ If you're looking for a motivated backend developer, let's talk!
 
 ---
 
-```bash
-# Nerdy quick look
-adriano@dev:~$ whoami
-adriano
-adriano@dev:~$ cat ~/skills
-Python FastAPI PostgreSQL Docker Linux Git Bash VSCode IntelliJ REST-API
-adriano@dev:~$ sudo apt-get hire adriano
-Reading package lists... Done
-Building dependency tree
-0 upgraded, 1 newly installed (motivation)
-```
+<div align="center">
+  
+  ### 🚀 Quick Stats
+  
+  <table style="border: 2px solid #667eea; border-radius: 8px; padding: 20px;">
+    <tr>
+      <td align="center"><strong>🎯 Role</strong><br/>Backend Developer</td>
+      <td align="center"><strong>🏆 Status</strong><br/>Open to Work</td>
+      <td align="center"><strong>📚 Education</strong><br/>CS @ UFMA</td>
+    </tr>
+  </table>
+
+  ```python
+  class AdrianoDeveloper:
+      def __init__(self):
+          self.name = "Adriano Cardoso"
+          self.role = "Backend Developer"
+          self.location = "Brazil 🇧🇷"
+          self.languages = ["Python", "Bash", "SQL"]
+          self.frameworks = ["FastAPI", "Docker", "PostgreSQL"]
+          self.always_learning = True
+          
+      def hire(self):
+          return "Let's build something amazing! 💡"
+  ```
+
+</div>
+
+---
 
 ```
-╔════════════════════════════════════════════════════════════════╗
-║  "Code today, expertise tomorrow"                             ║
-╚════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║     💻  "Code today, expertise tomorrow"                 ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
