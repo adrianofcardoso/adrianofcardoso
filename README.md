@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Adriano%20Cardoso&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Computer%20Science%20%40%20UFMA&descAlignY=62&descAlign=62)
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianofcardoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianofcardoso&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
+---
+
 # Hello World! 🚀
 
 Me chamo **Adriano Cardoso** e sou um desenvolvedor backend em formação, cursando **Ciência da Computação na UFMA**. Estou buscando minha primeira experiência formal no mercado como desenvolvedor Backend, consolidando conhecimentos adquiridos durante projetos de inovação acadêmica e cursos intensivos.
@@ -10,7 +19,8 @@ Me chamo **Adriano Cardoso** e sou um desenvolvedor backend em formação, cursa
 
 ---
 
-## 🛠️ Tech Stack
+
+## �🛠️ Tech Stack
 
 **Backend & Bancos de Dados**
 
@@ -80,7 +90,8 @@ Estou pronto para contribuir com:
 
 ---
 
-## 📬 Vamos Conversar!
+
+## �📬 Vamos Conversar!
 
 Se você procura um desenvolvedor backend motivado e em desenvolvimento, vamos conversar!
 
