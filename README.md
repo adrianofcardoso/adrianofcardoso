@@ -1,16 +1,99 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Adriano%20Cardoso&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Computer%20Science%20%40%20UFMA&descAlignY=62&descAlign=62)
 
-<!--
-**adrianofcardoso/adrianofcardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World! 🚀
 
-Here are some ideas to get you started:
+Me chamo **Adriano Cardoso** e sou um desenvolvedor backend em formação, cursando **Ciência da Computação na UFMA**. Estou buscando minha primeira experiência formal no mercado como desenvolvedor Backend, consolidando conhecimentos adquiridos durante projetos de inovação acadêmica e cursos intensivos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Competências Principais
+
+![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git&perline=6)
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend & Bancos de Dados**
+
+![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,sqlalchemy&perline=4)
+
+**DevOps & Infraestrutura**
+
+![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github&perline=4)
+
+**Ferramentas & Metodologias**
+
+![My Skills](https://skillicons.dev/icons?i=postman,bash,vim&perline=3)
+
+---
+
+## 💡 Projetos Relevantes
+
+### Sistema de Gestão de Produções Acadêmicas
+**Projeto de Inovação - UFMA**
+
+Liderança técnica no desenvolvimento do backend com foco em:
+- 🏗️ **Arquitetura de APIs REST escaláveis** com boas práticas de design
+- 🗄️ **Modelagem avançada de banco de dados PostgreSQL** para dados científicos
+- 🐳 **Conteinerização com Docker** para ambientes consistentes
+- ⚡ **Melhoria de 40%** na organização dos dados científicos da universidade
+
+---
+
+## 🎯 Competências
+
+### Backend
+![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs&perline=3)
+
+### Bancos de Dados
+![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite&perline=3)
+
+### DevOps & Infraestrutura
+![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,bash&perline=5)
+
+### Ferramentas & IDEs
+![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,vim,postman&perline=4)
+
+---
+
+## 📊 Experiência Profissional
+
+**W7M E-Sports** - Análise em Ambiente Dinâmico
+- Atuação em equipes multidisciplinares
+- Análise de processos e otimização
+
+---
+
+## 🎓 Formação
+
+- **Graduação:** Ciência da Computação - **UFMA** (Em andamento)
+- **Especialização:** Projetos de Inovação Acadêmica e Cursos Intensivos Backend
+
+---
+
+## 🚀 O Que Busco
+
+Estou pronto para contribuir com:
+- Código **limpo, bem estruturado e escalável**
+- Otimização de **processos e arquitetura de software**
+- Soluções **robustas e de alta performance**
+- Aprendizado contínuo e crescimento profissional
+
+---
+
+## 📬 Vamos Conversar!
+
+Se você procura um desenvolvedor backend motivado e em desenvolvimento, vamos conversar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seuusuario)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/seuusuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/home)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:seu.email@example.com)
+
+---
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║  "Code today, expertise tomorrow"                             ║
+╚════════════════════════════════════════════════════════════════╝
+```
