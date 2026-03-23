@@ -48,18 +48,9 @@ Technical lead on backend development focusing on:
 
 ---
 
-## 📊 Professional Experience
-
-**W7M E-Sports** — Analysis in a dynamic environment
-- Collaborated in multidisciplinary teams
-- Process analysis and optimization
-
----
-
 ## 🎓 Education
 
 - **B.Sc.** Computer Science — UFMA (ongoing)
-- **Specialization:** Academic Innovation Projects and Intensive Backend Courses
 
 ---
 
