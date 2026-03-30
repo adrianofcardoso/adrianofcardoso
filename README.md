@@ -5,11 +5,9 @@
 
 ---
 
-# Hello World 👋
+# print("Hello World")
 
 I am a backend developer in training, currently studying Computer Science at UFMA. I'm looking for my first formal backend role, bringing practical experience from academic innovation projects and intensive backend courses.
-
-## 🛠️ Tech Stack
 
 ### Technologies
 <div align="center">
