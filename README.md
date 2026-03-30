@@ -11,7 +11,8 @@
   class AdrianoDeveloper:
       '''
       I am a backend developer in training, currently studying Computer Science at UFMA. 
-      I'm looking for my first formal backend role, bringing practical experience from academic innovation projects and intensive backend courses.
+      I'm looking for my first formal backend role, bringing practical experience from 
+      academic innovation projects and intensive backend courses.
       '''
       
       def __init__(self):
@@ -21,7 +22,7 @@
           self.location = "Brazil 🇧🇷"
           self.technologies = ["Python", "Node.js", "JavaScript", "SQL"]
           self.frameworks = ["FastAPI", "Spring Boot", "React", "PostgreSQL", "Docker"]
-          self.language = "English (B1), Spanish (A1)
+          self.language = "English (B1), Spanish (A1)"
           self.always_learning = True
           
       def hire(self):
