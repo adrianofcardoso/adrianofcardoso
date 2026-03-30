@@ -7,36 +7,30 @@
 
 # print("Hello World")
 
-I am a backend developer in training, currently studying Computer Science at UFMA. I'm looking for my first formal backend role, bringing practical experience from academic innovation projects and intensive backend courses.
-
  ```python
   class AdrianoDeveloper:
+      '''
+      I am a backend developer in training, currently studying Computer Science at UFMA. 
+      I'm looking for my first formal backend role, bringing practical experience from academic innovation projects and intensive backend courses.
+      '''
+      
       def __init__(self):
           self.name = "Adriano Cardoso"
           self.role = "Backend Developer"
+          self.education = "Computer Science — UFMA"
           self.location = "Brazil 🇧🇷"
-          self.languages = ["Python", "Node.js", "JavaScript", "SQL"]
+          self.technologies = ["Python", "Node.js", "JavaScript", "SQL"]
           self.frameworks = ["FastAPI", "Spring Boot", "React", "PostgreSQL", "Docker"]
+          self.language = "English (B1), Spanish (A1)
           self.always_learning = True
           
       def hire(self):
           return "Let's build something amazing! 💡"
   ```
 
-## 🎓 Education
-
-- **B.Sc.** Computer Science — UFMA (ongoing)
-
 ---
 
-## 🗣️ Languages
-
-- **English:** Intermediate (B1)
-- **Spanish:** Basic
-
----
-
-## 📬 Contact
+## Contact
 
 If you're looking for a motivated backend developer, let's talk!
 
