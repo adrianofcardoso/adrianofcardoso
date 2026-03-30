@@ -35,19 +35,6 @@ I am a backend developer in training, currently studying Computer Science at UFM
 
 ---
 
-## 💡 Relevant Projects
-
-### Academic Productions Management System
-**Innovation Project — UFMA**
-
-Technical lead on backend development focusing on:
-- 🏗️ Scalable REST API architecture with solid design patterns
-- 🗄️ Advanced PostgreSQL modeling for scientific datasets
-- 🐳 Containerization with Docker for reproducible environments
-- ⚡ Increased data organization efficiency by ~40%
-
----
-
 ## 🎓 Education
 
 - **B.Sc.** Computer Science — UFMA (ongoing)
