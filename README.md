@@ -10,7 +10,6 @@
 I am a backend developer in training, currently studying Computer Science at UFMA. I'm looking for my first formal backend role, bringing practical experience from academic innovation projects and intensive backend courses.
 
 ### Technologies
-<div align="center">
   <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" height="48" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="48" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" height="48" style="margin:6px"/>
@@ -19,17 +18,13 @@ I am a backend developer in training, currently studying Computer Science at UFM
   <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot" height="48" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="48" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="48" style="margin:6px"/>
-  <img src="https://img.icons8.com/fluency/48/api-settings.png" title="REST API" alt="REST API" height="48" style="margin:6px"/>
-</div>
 
 ### Development Environment
-<div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" height="36" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=idea" title="JetBrains (IntelliJ)" alt="IntelliJ" height="36" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" height="36" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="36" style="margin:6px"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="36" style="margin:6px"/>
-</div>
 
 ---
 
