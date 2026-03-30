@@ -19,8 +19,6 @@
 
 </div>
 
----
-
 # print("Hello World")
 
  ```python
@@ -55,5 +53,3 @@ If you're looking for a motivated backend developer, let's talk!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/adrianofcardoso_)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://twitter.com/adrianosinho)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:adrianofc4@hotmail.com)
-
----
