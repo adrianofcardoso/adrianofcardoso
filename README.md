@@ -9,24 +9,19 @@
 
 I am a backend developer in training, currently studying Computer Science at UFMA. I'm looking for my first formal backend role, bringing practical experience from academic innovation projects and intensive backend courses.
 
-### Technologies
-  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" height="48" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="48" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" height="48" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" height="48" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" height="48" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot" height="48" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="48" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="48" style="margin:6px"/>
-
-### Development Environment
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" height="36" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=idea" title="JetBrains (IntelliJ)" alt="IntelliJ" height="36" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" height="36" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="36" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="36" style="margin:6px"/>
-
----
+ ```python
+  class AdrianoDeveloper:
+      def __init__(self):
+          self.name = "Adriano Cardoso"
+          self.role = "Backend Developer"
+          self.location = "Brazil 🇧🇷"
+          self.languages = ["Python", "Node.js", "JavaScript", "SQL"]
+          self.frameworks = ["FastAPI", "Spring Boot", "React", "PostgreSQL", "Docker"]
+          self.always_learning = True
+          
+      def hire(self):
+          return "Let's build something amazing! 💡"
+  ```
 
 ## 🎓 Education
 
@@ -63,20 +58,6 @@ If you're looking for a motivated backend developer, let's talk!
       <td align="center"><strong>📚 Education</strong><br/>CS @ UFMA</td>
     </tr>
   </table>
-
-  ```python
-  class AdrianoDeveloper:
-      def __init__(self):
-          self.name = "Adriano Cardoso"
-          self.role = "Backend Developer"
-          self.location = "Brazil 🇧🇷"
-          self.languages = ["Python", "Node.js", "JavaScript", "SQL"]
-          self.frameworks = ["FastAPI", "Spring Boot", "React", "PostgreSQL", "Docker"]
-          self.always_learning = True
-          
-      def hire(self):
-          return "Let's build something amazing! 💡"
-  ```
 
 </div>
 
