@@ -5,6 +5,22 @@
 
 ---
 
+<div align="center">
+  
+  ### 🚀 Quick Stats
+  
+  <table style="border: 2px solid #667eea; border-radius: 8px; padding: 20px;">
+    <tr>
+      <td align="center"><strong>🎯 Role</strong><br/>Backend Developer</td>
+      <td align="center"><strong>🏆 Status</strong><br/>Open to Work</td>
+      <td align="center"><strong>📚 Education</strong><br/>CS @ UFMA</td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
 # print("Hello World")
 
  ```python
@@ -41,27 +57,3 @@ If you're looking for a motivated backend developer, let's talk!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:adrianofc4@hotmail.com)
 
 ---
-
-<div align="center">
-  
-  ### 🚀 Quick Stats
-  
-  <table style="border: 2px solid #667eea; border-radius: 8px; padding: 20px;">
-    <tr>
-      <td align="center"><strong>🎯 Role</strong><br/>Backend Developer</td>
-      <td align="center"><strong>🏆 Status</strong><br/>Open to Work</td>
-      <td align="center"><strong>📚 Education</strong><br/>CS @ UFMA</td>
-    </tr>
-  </table>
-
-</div>
-
----
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║     💻  "Code today, expertise tomorrow"                 ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
