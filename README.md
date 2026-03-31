@@ -11,7 +11,7 @@
   
   <table style="border: 2px solid #667eea; border-radius: 8px; padding: 20px;">
     <tr>
-      <td align="center"><strong>🎯 Role</strong><br/>FullStack Developer</td>
+      <td align="center"><strong>🎯 Role</strong><br/>Backend Developer</td>
       <td align="center"><strong>🏆 Status</strong><br/>Open to Work</td>
       <td align="center"><strong>📚 Education</strong><br/>CS @ UFMA</td>
     </tr>
