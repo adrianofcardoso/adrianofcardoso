@@ -27,7 +27,7 @@
   class AdrianoDeveloper:
       '''
       I am a fullstack developer in training, currently studying Computer Science at UFMA. 
-      I'm looking for my first formal backend role, bringing practical experience from 
+      I'm looking for my first formal fullstack role, bringing practical experience from 
       academic innovation projects and intensive backend courses.
       '''
       
