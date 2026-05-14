@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Adriano%20Cardoso&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Computer%20Science%20%40%20UFMA&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Adriano%20Cardoso&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20|%20Computer%20Science%20%40%20UFMA&descAlignY=62&descAlign=62)
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=github)](https://github.com/adrianofcardoso)
 [![Available for Hire](https://img.shields.io/badge/Available-Yes-blue?style=for-the-badge&logo=rocket)]()
@@ -26,14 +26,14 @@
  ```python
   class AdrianoDeveloper:
       '''
-      I am a backend developer in training, currently studying Computer Science at UFMA. 
+      I am a fullstack developer in training, currently studying Computer Science at UFMA. 
       I'm looking for my first formal backend role, bringing practical experience from 
       academic innovation projects and intensive backend courses.
       '''
       
       def __init__(self):
           self.name = "Adriano Cardoso"
-          self.role = "Backend Developer"
+          self.role = "FullStack Developer"
           self.education = "Computer Science — UFMA"
           self.location = "Brazil 🇧🇷"
           self.technologies = ["Python", "Node.js", "JavaScript", "SQL"]
